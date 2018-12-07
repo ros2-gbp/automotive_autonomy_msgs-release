@@ -1,3 +1,29 @@
+## automotive_autonomy_msgs (lunar) - 2.0.3-0
+
+The packages in the `automotive_autonomy_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --ros-distro lunar --track lunar automotive_autonomy_msgs --edit` on `Fri, 07 Dec 2018 21:23:27 -0000`
+
+These packages were released:
+- `automotive_autonomy_msgs`
+- `automotive_navigation_msgs`
+- `automotive_platform_msgs`
+
+Version of package(s) in repository `automotive_autonomy_msgs`:
+
+- upstream repository: https://github.com/astuff/automotive_autonomy_msgs.git
+- release repository: https://github.com/astuff/automotive_autonomy_msgs-release.git
+- rosdistro version: `2.0.2-0`
+- old version: `2.0.2-0`
+- new version: `2.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## automotive_autonomy_msgs (kinetic) - 2.0.3-0
 
 The packages in the `automotive_autonomy_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --ros-distro kinetic --track kinetic automotive_autonomy_msgs --edit` on `Fri, 07 Dec 2018 21:17:45 -0000`
