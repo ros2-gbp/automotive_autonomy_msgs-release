@@ -1,0 +1,23 @@
+ros-lunar-automotive-platform-msgs (2.0.3-0xenial) xenial; urgency=high
+
+  * Merge pull request #13 <https://github.com/astuff/automotive_autonomy_msgs/issues/13> from astuff/maint/add_urls
+  * Adding URLs to package.xml files.
+  * Contributors: Joshua Whitley, Rinda Gunjala
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Fri, 07 Dec 2018 06:00:00 -0000
+
+ros-lunar-automotive-platform-msgs (2.0.2-0xenial) xenial; urgency=high
+
+  * Reorganized messages under new package names.
+  * Changed package name from platform_comm_msgs to automotive_platform_msgs.
+  * Fixing license in package.xml.
+  * Updating package.xml to format 2.
+  * Standardizing package.xml files.
+  * Version bump and minor formatting clean-up.
+  * Moving VelocityAccel to module_comm_msgs.
+  * Major package reorganization. See README for new package definitions.
+  * Contributors: Daniel Stanek, Joshua Whitley
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Tue, 07 Aug 2018 05:00:00 -0000
+
+
