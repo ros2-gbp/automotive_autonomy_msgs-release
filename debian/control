@@ -1,0 +1,12 @@
+Source: ros-indigo-automotive-autonomy-msgs
+Section: misc
+Priority: extra
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://github.com/automotive_autonomy_msgs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-automotive-autonomy-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-automotive-navigation-msgs, ros-indigo-automotive-platform-msgs
+Description: Messages for vehicle automation
