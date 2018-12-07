@@ -1,0 +1,12 @@
+Source: ros-indigo-automotive-platform-msgs
+Section: misc
+Priority: extra
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-std-msgs
+Homepage: http://github.com/automotive_platform_msgs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-automotive-platform-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-message-runtime, ros-indigo-std-msgs
+Description: Generic Messages for Communication with an Automotive Autonomous Platform
