@@ -7,3 +7,4 @@ uint8 msg_counter   # Increments each time a command is sent
                     # An acknowledge message should be published with this value
 
 int16 command       # The command value
+
