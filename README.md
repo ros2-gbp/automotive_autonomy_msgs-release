@@ -1,3 +1,29 @@
+## automotive_autonomy_msgs (dashing) - 3.0.1-2
+
+The packages in the `automotive_autonomy_msgs` repository were released into the `dashing` distro by running `/usr/local/bin/bloom-release --track dashing --rosdistro dashing automotive_autonomy_msgs --edit` on `Thu, 12 Dec 2019 22:47:00 -0000`
+
+These packages were released:
+- `automotive_autonomy_msgs`
+- `automotive_navigation_msgs`
+- `automotive_platform_msgs`
+
+Version of package(s) in repository `automotive_autonomy_msgs`:
+
+- upstream repository: https://github.com/astuff/automotive_autonomy_msgs.git
+- release repository: https://github.com/astuff/automotive_autonomy_msgs-release.git
+- rosdistro version: `3.0.0-1`
+- old version: `3.0.1-1`
+- new version: `3.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## automotive_autonomy_msgs (dashing) - 3.0.1-1
 
 The packages in the `automotive_autonomy_msgs` repository were released into the `dashing` distro by running `/usr/local/bin/bloom-release --track dashing --rosdistro dashing automotive_autonomy_msgs --edit` on `Thu, 12 Dec 2019 22:42:46 -0000`
