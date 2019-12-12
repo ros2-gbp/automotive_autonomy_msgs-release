@@ -1,5 +1,5 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package automotive_platform_msgs
+Changelog for package automotive_autonomy_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 3.0.1 (2019-12-12)
@@ -7,7 +7,6 @@ Changelog for package automotive_platform_msgs
 * Merge pull request `#15 <https://github.com/astuff/automotive_autonomy_msgs/issues/15>`_ from astuff/maint/ros1_ros2_hybrid
   ROS1/ROS2 Hybrid Packages
 * Fixing XML linting errors.
-* Making all messages ROS2-compliant.
 * Hybridizing all packages.
 * Contributors: Joshua Whitley
 
@@ -17,14 +16,17 @@ Changelog for package automotive_platform_msgs
 * Adding URLs to package.xml files.
 * Contributors: Joshua Whitley, Rinda Gunjala
 
-2.0.2 (2018-08-07)
+2.0.2 (2018-08-08)
 ------------------
-* Reorganized messages under new package names.
-* Changed package name from platform_comm_msgs to automotive_platform_msgs.
+* Changed metapackage name to automotive_autonomy_msgs.
+* Moving perception_msgs to astuff_sensor_msgs.
+* Moving radar_msgs to astuff_sensor_msgs.
 * Fixing license in package.xml.
 * Updating package.xml to format 2.
 * Standardizing package.xml files.
 * Version bump and minor formatting clean-up.
-* Moving VelocityAccel to module_comm_msgs.
 * Major package reorganization. See README for new package definitions.
-* Contributors: Daniel Stanek, Joshua Whitley
+* Adding HMI Messages.
+* Updating metapackage.
+* Name changes for consistency. Updating all other packages to match.
+* Contributors: Daniel Stanek, Joe Buckner, Joshua Whitley, Sam Rustan

@@ -10,3 +10,4 @@ uint16 valid        # 1 if location should be used, 0 to cancel out previous loc
 
 float64 latitude    # Latitude of destination (rad)
 float64 longitude   # Longitude of destination (rad)
+
