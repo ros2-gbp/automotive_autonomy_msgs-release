@@ -4,3 +4,5 @@
 std_msgs/Header header
 
 float32 curvature           # Measured steering curvature (1/m)
+
+
