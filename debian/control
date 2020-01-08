@@ -1,0 +1,12 @@
+Source: ros-eloquent-automotive-autonomy-msgs
+Section: misc
+Priority: optional
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-eloquent-ament-cmake, ros-eloquent-ros-environment, ros-eloquent-ros-workspace
+Homepage: http://github.com/automotive_autonomy_msgs
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-automotive-autonomy-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-eloquent-automotive-navigation-msgs, ros-eloquent-automotive-platform-msgs, ros-eloquent-ros-workspace
+Description: Messages for vehicle automation
