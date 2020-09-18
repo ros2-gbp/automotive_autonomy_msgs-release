@@ -1,3 +1,29 @@
+## automotive_autonomy_msgs (foxy) - 3.0.3-1
+
+The packages in the `automotive_autonomy_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy --new-track automotive_autonomy_msgs` on `Fri, 18 Sep 2020 13:53:54 -0000`
+
+These packages were released:
+- `automotive_autonomy_msgs`
+- `automotive_navigation_msgs`
+- `automotive_platform_msgs`
+
+Version of package(s) in repository `automotive_autonomy_msgs`:
+
+- upstream repository: https://github.com/astuff/automotive_autonomy_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## automotive_autonomy_msgs (kinetic) - 3.0.3-1
 
 The packages in the `automotive_autonomy_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic automotive_autonomy_msgs` on `Wed, 08 Jan 2020 01:07:19 -0000`
