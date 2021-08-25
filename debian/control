@@ -1,0 +1,12 @@
+Source: ros-galactic-automotive-autonomy-msgs
+Section: misc
+Priority: optional
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ros-environment, ros-galactic-ros-workspace
+Homepage: http://github.com/astuff/automotive_autonomy_msgs
+Standards-Version: 3.9.2
+
+Package: ros-galactic-automotive-autonomy-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-automotive-navigation-msgs, ros-galactic-automotive-platform-msgs, ros-galactic-ros-workspace
+Description: Messages for vehicle automation
