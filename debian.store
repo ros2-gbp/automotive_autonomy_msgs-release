@@ -1,1 +1,1 @@
-{"base": "8c949f9", "parent": "debian/rolling/automotive_navigation_msgs", "previous": "7be7bb8", "trim": "", "trimbase": ""}
+{"base": "ea642e7", "parent": "debian/humble/automotive_navigation_msgs", "previous": "e5581ab", "trim": "", "trimbase": ""}
