@@ -123,7 +123,8 @@ tracks:
     ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/astuff/automotive_autonomy_msgs.git
-    version: :{auto}
+    version: 3.0.4
+    version_saved: :{auto}
   indigo:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
