@@ -1,0 +1,12 @@
+Source: ros-iron-automotive-autonomy-msgs
+Section: misc
+Priority: optional
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-ros-environment, ros-iron-ros-workspace
+Homepage: http://github.com/astuff/automotive_autonomy_msgs
+Standards-Version: 3.9.2
+
+Package: ros-iron-automotive-autonomy-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-automotive-navigation-msgs, ros-iron-automotive-platform-msgs, ros-iron-ros-workspace
+Description: Messages for vehicle automation
