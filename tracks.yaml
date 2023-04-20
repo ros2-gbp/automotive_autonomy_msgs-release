@@ -173,8 +173,7 @@ tracks:
     ros_distro: iron
     vcs_type: git
     vcs_uri: https://github.com/astuff/automotive_autonomy_msgs.git
-    version: 3.0.4
-    version_saved: :{auto}
+    version: :{auto}
   kinetic:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
