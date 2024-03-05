@@ -1,0 +1,57 @@
+ros-rolling-automotive-platform-msgs (3.0.4-5noble) noble; urgency=high
+
+  * Change VelocityAccel comment from lateral to longitudinal, also remove trailing whitespace from all messages (#23 <https://github.com/astuff/automotive_autonomy_msgs/issues/23>)
+  * Change velocity comment from lateral to longitudinal (#21 <https://github.com/astuff/automotive_autonomy_msgs/issues/21>)
+  * Fix package.xml website URL (#19 <https://github.com/astuff/automotive_autonomy_msgs/issues/19>)
+  * Contributors: Jacob Perron, icolwell-as
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Wed, 21 Oct 2020 00:00:00 -0000
+
+ros-rolling-automotive-platform-msgs (3.0.3-5noble) noble; urgency=high
+
+  * Add find_package for ros_environment.
+  * Contributors: Joshua Whitley
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Tue, 31 Dec 2019 00:00:00 -0000
+
+ros-rolling-automotive-platform-msgs (3.0.2-5noble) noble; urgency=high
+
+  * Adding missing dependency on ros_environment.
+  * Contributors: Joshua Whitley
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Thu, 19 Dec 2019 00:00:00 -0000
+
+ros-rolling-automotive-platform-msgs (3.0.1-5noble) noble; urgency=high
+
+  * Merge pull request #15 <https://github.com/astuff/automotive_autonomy_msgs/issues/15> from astuff/maint/ros1_ros2_hybrid
+    ROS1/ROS2 Hybrid Packages
+  * Fixing XML linting errors.
+  * Making all messages ROS2-compliant.
+  * Hybridizing all packages.
+  * Contributors: Joshua Whitley
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Thu, 12 Dec 2019 00:00:00 -0000
+
+ros-rolling-automotive-platform-msgs (2.0.3-5noble) noble; urgency=high
+
+  * Merge pull request #13 <https://github.com/astuff/automotive_autonomy_msgs/issues/13> from astuff/maint/add_urls
+  * Adding URLs to package.xml files.
+  * Contributors: Joshua Whitley, Rinda Gunjala
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Fri, 07 Dec 2018 00:00:00 -0000
+
+ros-rolling-automotive-platform-msgs (2.0.2-5noble) noble; urgency=high
+
+  * Reorganized messages under new package names.
+  * Changed package name from platform_comm_msgs to automotive_platform_msgs.
+  * Fixing license in package.xml.
+  * Updating package.xml to format 2.
+  * Standardizing package.xml files.
+  * Version bump and minor formatting clean-up.
+  * Moving VelocityAccel to module_comm_msgs.
+  * Major package reorganization. See README for new package definitions.
+  * Contributors: Daniel Stanek, Joshua Whitley
+
+ -- AutonomouStuff Software Development Team <software@autonomoustuff.com>  Tue, 07 Aug 2018 00:00:00 -0000
+
+
