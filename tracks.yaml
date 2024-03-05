@@ -299,4 +299,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/astuff/automotive_autonomy_msgs.git
-    version: :{auto}
+    version: 3.0.4
+    version_saved: :{auto}
