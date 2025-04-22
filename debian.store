@@ -1,1 +1,1 @@
-{"base": "4a081ff", "parent": "debian/rolling/automotive_platform_msgs", "previous": "1b573fb", "trim": "", "trimbase": ""}
+{"base": "9ec8e739ed06", "parent": "debian/kilted/automotive_platform_msgs", "previous": "c5763967f354", "trim": "", "trimbase": ""}
