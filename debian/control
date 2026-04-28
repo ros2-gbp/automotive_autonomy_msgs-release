@@ -1,0 +1,12 @@
+Source: ros-rolling-automotive-autonomy-msgs
+Section: misc
+Priority: optional
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake, ros-rolling-ros-environment, ros-rolling-ros-workspace
+Homepage: http://github.com/astuff/automotive_autonomy_msgs
+Standards-Version: 3.9.2
+
+Package: ros-rolling-automotive-autonomy-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-automotive-navigation-msgs, ros-rolling-automotive-platform-msgs, ros-rolling-ros-workspace
+Description: Messages for vehicle automation
